@@ -1,5 +1,3 @@
 .idea
-.idea/*
-target/*
-././.idea
-././target
+.idea/
+target/
